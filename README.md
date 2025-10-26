@@ -1,1 +1,1 @@
-# client
+# Secure chat app
